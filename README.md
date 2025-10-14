@@ -1,6 +1,5 @@
 # Walmart Stockout Prediction & Inventory Risk Management
 
-**Course:** IE-GY 9113 — Data Analytics for Process Improvement, NYU (Spring 2026)  
 **Team:** Yash Nirwan · Soham Nevgi · Rahul Nair · Tanvish Tuplondhe
 
 ---
@@ -114,5 +113,4 @@ SUBJECT TO: Σ (ExtraUnits × HoldingCost) ≤ $32,836
 
 | File | Description |
 |---|---|
-| `walmart_stockout_prediction.ipynb` | Full notebook: EDA, feature engineering, modeling, Gurobi optimization |
-| `walmart_stockout_prediction.pptx` | Project presentation |
+| `Project_3_Walmart_Inventory_Predictions.ipynb` | Full notebook: EDA, feature engineering, modeling, Gurobi optimization |
